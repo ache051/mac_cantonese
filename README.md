@@ -6,6 +6,6 @@ As a new Mac user, I found most of the Cantonese input methods for Mac OSX utili
 To install:
 
 1) Copy "mac_cantonese.inputplugin" to the Library > Input Methods folder.
-2) Log off and log on
-3) Go to System Preferences > Keyboard > Input Sources and add 粵拼 to the input methods
+2) Log off and log on.
+3) Go to System Preferences > Keyboard > Input Sources and add 粵拼 to the input methods.
 4) Done! Enjoy!
