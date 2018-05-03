@@ -31,3 +31,5 @@ If the input method doesn't appear after following the steps above, it could be 
 7) Double-click on mac_canton.inputplugin
 
 8) Check if the input method appears
+
+[03.05.18] Download mac_canton_utf16.inputplugin to your Downloads folder and double-click. Check Keyboard input sources and it should be installed.
